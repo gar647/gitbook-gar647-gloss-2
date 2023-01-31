@@ -1,5 +1,5 @@
 ---
-description: holy fuck 2
+description: holy fuck
 ---
 
 # Glossy repo 2
