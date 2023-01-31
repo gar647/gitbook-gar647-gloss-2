@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Glossy repo 3](README.md)
+* [Glossy repo 4](README.md)
 * [some page](some-page.md)
